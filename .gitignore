@@ -15,8 +15,6 @@ UserSettings/
 *.csproj
 *.unityproj
 *.sln
-*.tgz
-*.fbx
 *.suo
 *.tmp
 *.user
@@ -79,3 +77,7 @@ local.properties
 *.tmp
 *.orig
 *.bak
+
+# Large model files
+*.fbx
+*.tgz
